@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\Github\\WebApiDB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|d:\\github\\webapidb\\db\\reqestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|solutionrelative:db\\reqestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|d:\\github\\webapidb\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|solutionrelative:db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|d:\\github\\webapidb\\db\\migrations\\20240620180906_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|solutionrelative:db\\migrations\\20240620180906_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|d:\\github\\webapidb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|d:\\github\\webapidb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|d:\\github\\webapidb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|d:\\github\\webapidb\\tz requests.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|solutionrelative:tz requests.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|d:\\github\\webapidb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|d:\\github\\webapidb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A7186567-3B2C-4505-B67E-06DCD7F974B1}|WebApiDB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,6 +87,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "20240620180906_init.cs",
+              "DocumentMoniker": "D:\\Github\\WebApiDB\\DB\\Migrations\\20240620180906_init.cs",
+              "RelativeDocumentMoniker": "DB\\Migrations\\20240620180906_init.cs",
+              "ToolTip": "D:\\Github\\WebApiDB\\DB\\Migrations\\20240620180906_init.cs",
+              "RelativeToolTip": "DB\\Migrations\\20240620180906_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:09:06.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Github\\WebApiDB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Github\\WebApiDB\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T17:58:38.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github\\WebApiDB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Github\\WebApiDB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T17:58:16.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Github\\WebApiDB\\DB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DB\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Github\\WebApiDB\\DB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DB\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:44:48.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReqestData.cs",
+              "DocumentMoniker": "D:\\Github\\WebApiDB\\DB\\ReqestData.cs",
+              "RelativeDocumentMoniker": "DB\\ReqestData.cs",
+              "ToolTip": "D:\\Github\\WebApiDB\\DB\\ReqestData.cs",
+              "RelativeToolTip": "DB\\ReqestData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:36:25.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TZ Requests.txt",
               "DocumentMoniker": "D:\\Github\\WebApiDB\\TZ Requests.txt",
               "RelativeDocumentMoniker": "TZ Requests.txt",
@@ -87,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Github\\WebApiDB\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -100,39 +177,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Github\\WebApiDB\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\Github\\WebApiDB\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T17:18:49.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Github\\WebApiDB\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Github\\WebApiDB\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T17:18:46.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\WebApiDB\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Github\\WebApiDB\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T17:14:05.967Z",
               "EditorCaption": ""
