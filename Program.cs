@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Http.Extensions;
+using Microsoft.EntityFrameworkCore;
 using WebApiDB.DB;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,8 +8,14 @@ builder.Services.AddDbContext<ApplicationDbContext>();
 var app = builder.Build();
 
 // обработчики 21-06-2024
-app.MapGet("/", () => "Hello World!");
-app.MapGet("/ping", () => new  { Massage = "pong", Time = DateTime.UtcNow });
+app.MapGet(
+    "/", () => "Hello World!");
+app.MapGet(
+    "/ping", () => new  { Massage = "pong", Time = DateTime.UtcNow });
+app.MapGet(
+    "/reqests", async (ApplicationDbContext db) => await db.ReqestDatas.ToListAsync());
+app.MapGet(
+    "/reqests/{id:int}", async (ApplicationDbContext db, int id) => await db.ReqestDatas.FirstAsync(r => r.id == id));
 
 // middleware
 app.Use(async (HttpContext context, RequestDelegate next) =>
