@@ -16,7 +16,9 @@ app.MapGet(
     "/reqests", async (ApplicationDbContext db) => await db.ReqestDatas.ToListAsync());
 app.MapGet(
     "/reqests/{id:int}", async (ApplicationDbContext db, int id) => await db.ReqestDatas.FirstAsync(r => r.id == id));
-
+// строка соединения  до изменения 04-07-2024
+// "CloudDbConnection": "Data Source= sql.bsite.net\\MSSQL2016 ; Initial Catalog = denf_ ;  User ID = denf_; Password = Fishman_11; TrustServerCertificate = true"
+// "Data Source=FISHMAN; Initial Catalog=pv225_requests_db; Integrated Security=SSPI; Timeout=5; TrustServerCertificate=true",
 // middleware
 app.Use(async (HttpContext context, RequestDelegate next) =>
 {

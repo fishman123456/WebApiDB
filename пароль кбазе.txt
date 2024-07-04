@@ -1,0 +1,8 @@
+workstation id=fishman.mssql.somee.com;
+packet size=4096;
+user id=DFish_SQLLogin_1;
+pwd=7rg77ksatp;
+data source=fishman.mssql.somee.com;
+persist security info=False;
+initial catalog=fishman;
+TrustServerCertificate=True
